@@ -3,7 +3,7 @@
 sudo mkdir -p /var/www/html/site1
 sudo mkdir -p /var/www/html/site2
 sudo cp html/index.html /var/www/html/site1/
-sudo cp html/index.html /var/www/html/site2/
+sudo cp html/index1.html /var/www/html/site2/
 
 
 sudo cp conf/site1.com.conf /etc/apache2/sites-available/
